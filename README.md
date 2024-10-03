@@ -1,9 +1,9 @@
-## Olá! Eu sou a Luana 👋
-  ### Fique à vontade para explorar meus projetos e contribuições no Github. Sinta-se em casa!.✨ 
+# Olá! Eu sou a Luana 👋
+  ## Fique à vontade para explorar meus projetos e contribuições no Github. Sinta-se em casa!.✨ 
 
 
 
-Sou uma economista criativa com uma mente analítica e detalhista, em constante evolução como analista de dados e econometrista. Adoro transformar números em soluções estratégicas, mas também sou movida pela escrita, conversas profundas e o desejo de explorar o mundo. 🌍🚀
+Sou economista e pós graduada em marketing e growth, tenho essência criativa com uma mente analítica e detalhista. Estou em constante evolução como analista de dados e econometrista. Adoro transformar números em soluções estratégicas, mas também sou movida pela escrita, conversas profundas e o desejo de explorar o mundo. 🌍🚀
 
 
 
